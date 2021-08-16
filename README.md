@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmaneugene
 - 👀 I’m interested in embedded systems, AI, and understanding software design patterns
-- 🌱 I’m currently doing research in the topic of Hierarchical Reinforcement Learning in AI
+- 🌱 I’m currently doing research in the topic of Hierarchical Reinforcement Learning in AI, among enrolling in other school modules
 - 📫 How to reach me: Send me an email at emmaneugene@outlook.com! I would love to know more about your interests and projects :)
 
 Last updated: Aug 2021
