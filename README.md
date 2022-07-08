@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @emmaneugene
-- 👀 I’m interested in embedded systems, AI, and understanding software design patterns
+- 👋 Hi, I’m @emmaneugene, an aspiring software engineer reading computer science at SMU
+- 👀 I’m interested in web development, devops, embedded systems, AI, and understanding the first principles behind good software and system design 
 - 📫 How to reach me: Send me an email at emmaneugene@outlook.com! I would love to know more about your interests and projects :)
 
-Last updated: Aug 2021
+Last updated: July 2022
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
