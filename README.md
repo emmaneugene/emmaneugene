@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmaneugene, an aspiring software engineer reading computer science at SMU
 - 👀 I’m interested in web development, devops, embedded systems, AI, and understanding the first principles behind good software and system design 
-- 📫 **How to reach me**: Send me an email at emmaneugene@outlook.com! I would love to know more about your interests and projects :)
+- 📫 **How to reach me**: Send me an email at emmaneugene@gmail.com! I would love to know more about your interests and projects :)
 
 Last updated: July 2022
 
