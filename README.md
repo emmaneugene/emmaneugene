@@ -6,11 +6,11 @@
 
 # Ongoing projects
 
-[Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer)
+- [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer)
 
-[GUI volunteer webapp](https://github.com/emmaneugene/GUI-volunteer-management-webapp)
+- [GUI volunteer webapp](https://github.com/emmaneugene/GUI-volunteer-management-webapp)
 
-[Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI)
+- [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI)
 
 Last updated: Sept 2022
 
