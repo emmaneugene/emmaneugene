@@ -4,7 +4,7 @@
 - 📫 **How to reach me**: Send me an email at emmaneugene@gmail.com! I would love to know more about your interests and projects :)
 - 🔍Find out more about me on my [personal website](https://emmaneugene.github.io)
 
-# Ongoing projects:
+# Ongoing projects
 
 [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer)
 
