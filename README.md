@@ -1,10 +1,15 @@
 # About me
 - 👋 Hi, I’m Emmanuel, an aspiring software engineer reading computer science at SMU
+
 - 👀 I’m interested in web development, devops (specifically SRE), systems, AI, and understanding the first principles behind good software and system design 
+
 - 📫 **How to reach me**: Send me an email at emmaneugene@gmail.com! I would love to know more about your interests and projects :)
+
 - 🔍Find out more about me on my [personal website](https://emmaneugene.github.io)
 
 # Ongoing projects
+
+- [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart)
 
 - [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer)
 
