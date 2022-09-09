@@ -9,15 +9,15 @@
 
 # Ongoing projects
 
-- [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart)
+- [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart) - started 9/9/22
 
-- [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer)
+- [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer) - started 15/8/22
 
-- [GUI volunteer webapp](https://github.com/emmaneugene/GUI-volunteer-management-webapp)
+- [GUI volunteer webapp](https://github.com/emmaneugene/GUI-volunteer-management-webapp) - sprint planning and requirement gathering
 
-- [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI)
+- [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - actively looking for collaborators
 
-Last updated: Sept 2022
+Last updated: 9/9/22
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
