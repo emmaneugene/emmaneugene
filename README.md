@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m Emmanuel, an aspiring software engineer reading computer science at SMU
+- 👋 I’m Emmanuel, an aspiring software engineer reading computer science at SMU
 
 - 👀 I’m interested in web development, devops (specifically SRE), computer systems, robotics and AI. 
 
