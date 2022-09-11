@@ -13,9 +13,9 @@
 
 - [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer) - started 15/8/22
 
-- [GUI volunteer webapp](https://github.com/emmaneugene/GUI-volunteer-management-webapp) - sprint planning and requirement gathering
+- [GUI volunteer webapp](https://github.com/emmaneugene/GUI-volunteer-management-webapp) - sprint planning and requirements gathering
 
-- [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - actively looking for collaborators
+- [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and actively looking for collaborators
 
 Last updated: 9/9/22
 
