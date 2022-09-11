@@ -1,9 +1,7 @@
 # About me
 - 👋 Hi, I’m Emmanuel, an aspiring software engineer reading computer science at SMU
 
-- 👀 I’m interested in web development, devops (specifically SRE), systems, AI, and understanding the first principles behind good software and system design 
-
-- 📫 **How to reach me**: Send me an email at emmaneugene@gmail.com! I would love to know more about your interests and projects :)
+- 👀 I’m interested in web development, devops (specifically SRE), computer systems, robotics and AI. 
 
 - 🔍Find out more about me on my [personal website](https://emmaneugene.github.io)
 
@@ -17,7 +15,7 @@
 
 - [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and actively looking for collaborators
 
-Last updated: 9/9/22
+Last updated: 11/9/22
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
