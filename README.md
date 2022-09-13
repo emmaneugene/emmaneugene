@@ -5,13 +5,15 @@
 
 - 🔍Find out more about me on my [personal website](https://emmaneugene.github.io)
 
-# Ongoing projects
+# Project log
 
 - [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart) - started 9/9/22
 
 - [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer) - started 15/8/22
 
-- [GUI volunteer webapp](https://github.com/emmaneugene/GUI-volunteer-management-webapp) - sprint planning and requirements gathering
+- [Feed Integrator](https//github.com/emmaneugene/feed-integrator) - commencing 15/11/22
+
+- [GUI volunteer webapp](https://github.com/Ground-Up-Initiative) - planning and documenting software requirements
 
 - [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and actively looking for collaborators
 
