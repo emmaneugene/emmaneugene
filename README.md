@@ -15,7 +15,7 @@
 
 - [GUI volunteer webapp](https://github.com/Ground-Up-Initiative) - planning and documenting software requirements
 
-- [Feed Integrator](https//github.com/emmaneugene/feed-integrator) - commencing 15/11/22
+- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - commencing 15/11/22
 
 - [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and actively looking for collaborators
 
