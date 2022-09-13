@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/45187465/189823863-3fcd9393-263c-44ea-b87b-168c16460fd4.png)
+
+
 # About me
 - 👋 I’m Emmanuel, an aspiring software engineer reading computer science at SMU
 
