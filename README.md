@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/45187465/189823863-3fcd9393-263c-44ea-b87b-168c16460fd4.png" style="border: 1px solid #ddd; border-radius: 8px; width: auto;">
+<p align="center"><img src="https://user-images.githubusercontent.com/45187465/189823863-3fcd9393-263c-44ea-b87b-168c16460fd4.png" height="400"></p>
 
 # About me
 - 👋 I’m Emmanuel, an aspiring software engineer reading computer science at SMU
@@ -13,13 +13,13 @@
 
 - [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer) - started 15/8/22
 
-- [Feed Integrator](https//github.com/emmaneugene/feed-integrator) - commencing 15/11/22
-
 - [GUI volunteer webapp](https://github.com/Ground-Up-Initiative) - planning and documenting software requirements
+
+- [Feed Integrator](https//github.com/emmaneugene/feed-integrator) - commencing 15/11/22
 
 - [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and actively looking for collaborators
 
-Last updated: 11/9/22
+Last updated: 13/9/22
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
