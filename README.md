@@ -21,7 +21,7 @@
 
 - [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and actively looking for collaborators
 
-Last updated: 13/9/22
+**Last updated**: 14-09-2022
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
