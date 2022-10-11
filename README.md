@@ -11,17 +11,17 @@
 
 # Project log
 
-- [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart) - started 9/9/22
+- [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart) - WIP
 
-- [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer) - started 15/8/22
+- [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer) - WIP
 
-- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - commencing 15/11/22
+- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - planned for future
 
 - [GUI volunteer webapp](https://github.com/Ground-Up-Initiative) - planning and documenting software requirements
 
-- [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and actively looking for collaborators
+- [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and looking for collaborators
 
-**Last updated**: 14-09-2022
+**Last updated**: 11-10-2022
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
