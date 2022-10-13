@@ -9,13 +9,30 @@
 
 - 🔍 Find out more about me on my [personal website](https://emmaneugene.github.io)
 
+# Personal goals
+
+- Grok linux and the command line 
+   - Complete [The Missing Semester](https://missing.csail.mit.edu/)
+   - Learn `vim` properly
+   - Build [Linux from Scratch](https://www.linuxfromscratch.org/)
+
+- Reinforce foundational concepts for AI and Data Science 
+   - Linear algebra
+   - Statistics
+   - Calculus
+   - LaTeX
+  
+- Learn [Rust](https://doc.rust-lang.org/book/)
+
+- Build a full-stack web app in the [Node.js](https://nodejs.org/en/) ecosystem
+
 # Project log
 
 - [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart) - WIP
 
 - [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer) - WIP
 
-- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - planned for future
+- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - planned
 
 - [GUI volunteer webapp](https://github.com/Ground-Up-Initiative) - planning and documenting software requirements
 
