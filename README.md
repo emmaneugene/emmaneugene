@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in web development, SRE, computer systems, robotics, AI, and programming language design. 
 
-- 🔍Find out more about me on my [personal website](https://emmaneugene.github.io)
+- 🔍 Find out more about me on my [personal website](https://emmaneugene.github.io)
 
 # Project log
 
