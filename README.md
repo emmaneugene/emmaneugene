@@ -13,7 +13,7 @@
 
 - Grok linux and the command line 
    - Complete [The Missing Semester](https://missing.csail.mit.edu/)
-   - Learn `vim` properly
+   - Learn `vim` and regex properly
    - Build [Linux from Scratch](https://www.linuxfromscratch.org/)
 
 - Reinforce foundational concepts for AI and Data Science 
