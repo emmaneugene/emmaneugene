@@ -13,11 +13,11 @@
 
 - Grok linux and the command line 
    - Complete [The Missing Semester](https://missing.csail.mit.edu/)
-   - Learn `vim` and regex properly
+   - Learn and set up personal configs for `vim` (or rather, `nvim`)  
    - Build [Linux from Scratch](https://www.linuxfromscratch.org/)
 
 - Reinforce foundational concepts for AI and Data Science 
-   - Linear algebra
+   - Linear Algebra
    - Statistics
    - Calculus
    - LaTeX
@@ -34,11 +34,9 @@
 
 - [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - planned
 
-- [GUI volunteer webapp](https://github.com/Ground-Up-Initiative) - planning and documenting software requirements
-
 - [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and looking for collaborators
 
-**Last updated**: 11-10-2022
+**Last updated**: 27-10-2022
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
