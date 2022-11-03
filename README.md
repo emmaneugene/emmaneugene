@@ -9,9 +9,11 @@
 
 - 🔍 Find out more about me on my [personal website](https://emmaneugene.github.io)
 
-# Personal goals
+# Current goals
 
-- Grok linux and the command line 
+Themes I'm currently focused on:
+
+- Grok Linux and the command line 
    - Complete [The Missing Semester](https://missing.csail.mit.edu/)
    - Learn and set up personal configs for `vim` (or rather, `nvim`)  
    - Build [Linux from Scratch](https://www.linuxfromscratch.org/)
@@ -27,6 +29,8 @@
 - Build a full-stack web app in the [Node.js](https://nodejs.org/en/) ecosystem
 
 # Project log
+
+A list of active projects and things I'm looking to build:
 
 - [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart) - WIP
 
