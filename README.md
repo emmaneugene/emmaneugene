@@ -2,6 +2,8 @@
   <img alt="banner" src="https://user-images.githubusercontent.com/45187465/189823863-3fcd9393-263c-44ea-b87b-168c16460fd4.png">
 </p>
 
+[![Emman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaneugene)](https://github.com/anuraghazra/github-readme-stats)
+
 # About me
 - 👋 I’m Emmanuel, an aspiring software engineer reading Computer Science and Public Policy at [SMU](https://smu.edu.sg)
 
