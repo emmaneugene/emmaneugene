@@ -7,7 +7,7 @@
 # About me
 - 👋 I’m Emmanuel, an aspiring software engineer reading Computer Science and Public Policy at [SMU](https://smu.edu.sg)
 
-- 👀 I’m interested in web development, SRE, computer systems, robotics, AI, and programming language design
+- 👀 I’m interested in web development, SRE, systems, robotics, AI, and programming language design
 
 - 🔍 Find out more about me on my [personal website](https://emmaneugene.github.io)
 
