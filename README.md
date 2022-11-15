@@ -41,9 +41,7 @@ A list of active projects and things I'm looking to build:
 
 - [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - WIP
 
-- [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and looking for collaborators
-
-**Last updated**: 27-10-2022
+**Last updated**: 15-11-2022
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
