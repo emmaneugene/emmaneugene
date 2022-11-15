@@ -16,15 +16,15 @@
 Themes I'm currently focused on:
 
 - Grok Linux and the command line 
-   - Complete [The Missing Semester](https://missing.csail.mit.edu/)
-   - Learn and set up personal configs for `vim` (or rather, `nvim`)  
-   - Build [Linux from Scratch](https://www.linuxfromscratch.org/)
+   [] Complete [The Missing Semester](https://missing.csail.mit.edu/)
+   [] Learn and set up personal configs for `vim` (or rather, `nvim`)  
+   [] Build [Linux from Scratch](https://www.linuxfromscratch.org/)
 
 - Reinforce foundational concepts for AI and Data Science 
-   - Linear Algebra
-   - Statistics
-   - Calculus
-   - LaTeX
+   [] Linear Algebra
+   [] Statistics
+   [] Calculus
+   [] LaTeX
   
 - Learn [Rust](https://doc.rust-lang.org/book/)
 
@@ -38,7 +38,7 @@ A list of active projects and things I'm looking to build:
 
 - [Disk Usage Visualizer](https://github.com/emmaneugene/disk-usage-visualizer) - WIP
 
-- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - planned
+- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - WIP
 
 - [Jazzif-AI](https://github.com/emmaneugene/Jazzif-AI) - researching and looking for collaborators
 
