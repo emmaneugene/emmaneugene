@@ -1,8 +1,8 @@
-# "I don't just think it will... I know it might!"
-
 <p align="center">
   <img alt="banner" src="https://user-images.githubusercontent.com/45187465/189823863-3fcd9393-263c-44ea-b87b-168c16460fd4.png">
 </p>
+
+<p align="center"><i>"I don't just think it will... I know it might!"</i></p>
 
 [![Emman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaneugene&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
