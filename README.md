@@ -4,8 +4,6 @@
 
 <p align="center"><i>"I don't just think it will... I know it might!"</i></p>
 
-[![Emman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaneugene&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 # About me
 - 👋 I’m Emmanuel, an aspiring software engineer reading Computer Science at [SMU](https://smu.edu.sg)
 
