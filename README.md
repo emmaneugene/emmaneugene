@@ -5,25 +5,20 @@
 <p align="center"><i>"I don't just think it will... I know it might!"</i></p>
 
 # About me
-- 👋 I’m Emmanuel, an aspiring software engineer reading Computer Science at [SMU](https://smu.edu.sg)
+- 👋 I’m a software engineer reading Computer Science at [SMU](https://smu.edu.sg)
 
 - 👀 I’m interested in systems, SRE, robotics, AI, programming language design and anything else that touches on low-level concepts
 
 - 🔍 Find out more about me on my [personal website](https://emmaneugene.github.io)
 
-# Current goals
-
-Themes I'm currently focused on:
+# Current focus areas
 
 - Grokking Linux and the command line 
    - Complete [The Missing Semester](https://missing.csail.mit.edu/)
    - Learn and set up personal configs for `vim` (or rather, `nvim`)  
    - Build [Linux from Scratch](https://www.linuxfromscratch.org/)
 
-- Reinforcing foundational concepts for AI and Data Science 
-   - Linear Algebra
-   - Statistics
-   - Calculus
+- Working on [ScamSword](https://github.com/FYP-ScamSword)
   
 - Learning [Rust](https://doc.rust-lang.org/book/)
 
@@ -39,7 +34,7 @@ A list of active projects and things I'm looking to build:
 
 - [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - WIP
 
-**Last updated**: 23-12-2022
+**Last updated**: 14-1-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
