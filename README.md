@@ -15,14 +15,11 @@
 
 - Grokking Linux and the command line 
    - Complete [The Missing Semester](https://missing.csail.mit.edu/)
-   - Learn and set up personal configs for `vim` (or rather, `nvim`)  
    - Build [Linux from Scratch](https://www.linuxfromscratch.org/)
 
 - Working on [ScamSword](https://github.com/FYP-ScamSword)
   
 - Learning [Rust](https://doc.rust-lang.org/book/)
-
-- Building a full-stack web app in the [Node.js](https://nodejs.org/en/) ecosystem
 
 # Project log
 
