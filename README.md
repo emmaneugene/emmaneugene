@@ -31,7 +31,7 @@ A list of active projects and things I'm looking to build:
 
 - [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - WIP
 
-**Last updated**: 14-1-2023
+**Last updated**: 27-1-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
