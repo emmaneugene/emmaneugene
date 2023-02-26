@@ -17,11 +17,11 @@
 
 - Working on [ScamSword](https://github.com/FYP-ScamSword)
  
-- Writing algorithms for fun
+- Writing [algorithms](https://github.com/emmaneugene/algos) for fun
 
 # Future log
 
-A list of active projects and things I'm looking to build:
+A list of future projects and goals:
 
 - [Linux from Scratch](https://www.linuxfromscratch.org/)
 
@@ -33,7 +33,7 @@ A list of active projects and things I'm looking to build:
 
 - [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - WIP
 
-**Last updated**: 18-02-2023
+**Last updated**: 26-02-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
