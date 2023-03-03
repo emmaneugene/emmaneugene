@@ -7,17 +7,17 @@
 # About me
 - 👋 I’m a software engineer reading Computer Science at [SMU](https://scis.smu.edu.sg)
 
-- 👀 I’m interested in systems, DevOps, robotics, AI, programming language design and anything else that touches on low-level concepts
+- 👀 I’m interested in systems, DevOps, robotics, programming language design and anything else that touches on low-level concepts
 
-- 🔍 Find out more about me on my [personal website](https://emmaneugene.github.io)
+- 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
 # Current focus
 
-- Learning about programming language design through [Crafting Interpreters](https://craftinginterpreters.com/)
+- Learning about programming language implementation through [Crafting Interpreters](https://craftinginterpreters.com/)
 
 - Working on [ScamSword](https://github.com/FYP-ScamSword)
  
-- Writing [algorithms](https://github.com/emmaneugene/algos) for fun
+- Writing [algorithms](https://github.com/emmaneugene/algos) for fun and interview prep
 
 # Future log
 
@@ -27,13 +27,13 @@ A list of future projects and goals:
 
 - Learning [Rust](https://doc.rust-lang.org/book/)
 
-- [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart) - WIP
+- [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart)
 
 - Telegram Habit Tracker Bot - WIP
 
-- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) - WIP
+- [Feed Integrator](https://github.com/emmaneugene/feed-integrator)
 
-**Last updated**: 26-02-2023
+**Last updated**: 03-03-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
