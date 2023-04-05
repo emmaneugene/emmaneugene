@@ -11,13 +11,11 @@
 
 - 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
-# Current focus
+# Current log
 
-- Learning about programming language implementation through [Crafting Interpreters](https://craftinginterpreters.com/)
+- Learning about [programming language implementation](https://nusmods.com/modules/CS4215/programming-language-implementation) by building a [C compiler and VM](https://github.com/emmaneugene/CS4215-sourClang-VM) and following the [Crafting Interpreters](https://craftinginterpreters.com/) textbook
 
 - Working on [ScamSword](https://github.com/FYP-ScamSword)
- 
-- Writing [algorithms](https://github.com/emmaneugene/algos) for fun and interview prep
 
 # Future log
 
@@ -29,11 +27,15 @@ A list of future projects and goals:
 
 - [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart)
 
-- Telegram Habit Tracker Bot - WIP
+- A simple habit tracker bot on Telegram
 
-- [Feed Integrator](https://github.com/emmaneugene/feed-integrator)
+- Setting up self-hosted services on a personal server
 
-**Last updated**: 03-03-2023
+- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) as full-stack development practice
+
+- A self-hosted LLM (most likely using the [LLaMa](https://github.com/ggerganov/llama.cpp) model) for personal knowledge management
+
+**Last updated**: 05-04-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
