@@ -17,15 +17,13 @@
 
 - Working on [ScamSword](https://github.com/FYP-ScamSword)
 
-# Future log
-
-A list of future projects and goals:
-
-- [Linux from Scratch](https://www.linuxfromscratch.org/)
-
 - Learning [Rust](https://doc.rust-lang.org/book/)
 
 - [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart)
+
+# Future log
+
+- [Linux from Scratch](https://www.linuxfromscratch.org/)
 
 - A simple habit tracker bot on Telegram
 
@@ -35,7 +33,7 @@ A list of future projects and goals:
 
 - A self-hosted LLM (most likely using the [LLaMa](https://github.com/ggerganov/llama.cpp) model) for personal knowledge management
 
-**Last updated**: 05-04-2023
+**Last updated**: 14-04-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
