@@ -15,11 +15,11 @@
 
 - Learning about [programming language implementation](https://nusmods.com/modules/CS4215/programming-language-implementation) by building a [C compiler and VM](https://github.com/emmaneugene/CS4215-sourClang-VM) and following the [Crafting Interpreters](https://craftinginterpreters.com/) textbook
 
-- Working on [ScamSword](https://github.com/FYP-ScamSword)
-
 - Learning [Rust](https://doc.rust-lang.org/book/)
 
 - [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart)
+
+- Setting up self-hosted services on a personal server
 
 # Future log
 
@@ -27,13 +27,11 @@
 
 - A simple habit tracker bot on Telegram
 
-- Setting up self-hosted services on a personal server
-
 - [Feed Integrator](https://github.com/emmaneugene/feed-integrator) as full-stack development practice
 
 - A self-hosted LLM (most likely using the [LLaMa](https://github.com/ggerganov/llama.cpp) model) for personal knowledge management
 
-**Last updated**: 14-04-2023
+**Last updated**: 23-04-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
