@@ -7,7 +7,7 @@
 # About me
 - 👋 I’m a software engineer reading Computer Science at [SMU](https://scis.smu.edu.sg)
 
-- 👀 I’m interested in systems, DevOps, robotics, programming language design and anything else that touches on low-level concepts
+- 👀 I’m interested in systems, DevOps, programming language design and implementation, compilers and anything else that touches on low-level concepts
 
 - 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
