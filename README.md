@@ -7,21 +7,20 @@
 # About me
 - 👋 I’m a software engineer reading Computer Science at [SMU](https://scis.smu.edu.sg)
 
-- 👀 I’m interested in systems, DevOps, programming language design and implementation, compilers and anything else that touches on low-level concepts
+- 👀 I’m interested in systems, programming language design and implementation, compilers, and anything else that touches on low-level concepts
 
 - 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
-# Current log
+# Project log
+A laundry list of ideas that may or may not see the light of day:
 
-- Learning about [programming language implementation](https://nusmods.com/modules/CS4215/programming-language-implementation) by building a [C compiler and VM](https://github.com/emmaneugene/CS4215-sourClang-VM) and following the [Crafting Interpreters](https://craftinginterpreters.com/) textbook
+- Following the [Crafting Interpreters](https://craftinginterpreters.com/) textbook to learn more about programming language implementations
 
 - Learning [Rust](https://doc.rust-lang.org/book/)
 
 - [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart)
 
 - Setting up self-hosted services on a personal server
-
-# Future log
 
 - [Linux from Scratch](https://www.linuxfromscratch.org/)
 
@@ -31,7 +30,7 @@
 
 - A self-hosted LLM (most likely using the [LLaMa](https://github.com/ggerganov/llama.cpp) model) for personal knowledge management
 
-**Last updated**: 23-04-2023
+**Last updated**: 26-06-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
