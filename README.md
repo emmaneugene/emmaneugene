@@ -16,8 +16,6 @@ A laundry list of ideas that may or may not see the light of day:
 
 - Following the [Crafting Interpreters](https://craftinginterpreters.com/) textbook to learn more about programming language implementations
 
-- Learning [Rust](https://doc.rust-lang.org/book/)
-
 - [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart)
 
 - Setting up self-hosted services on a personal server
@@ -30,7 +28,7 @@ A laundry list of ideas that may or may not see the light of day:
 
 - A self-hosted LLM (most likely using the [LLaMa](https://github.com/ggerganov/llama.cpp) model) for personal knowledge management
 
-**Last updated**: 26-06-2023
+**Last updated**: 06-07-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
