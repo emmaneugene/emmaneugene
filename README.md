@@ -16,8 +16,6 @@ A laundry list of ideas that may or may not see the light of day:
 
 - Following the [Crafting Interpreters](https://craftinginterpreters.com/) textbook to learn more about programming language implementations
 
-- [CLI Repo Quickstart](https://github.com/emmaneugene/cli-repo-quickstart)
-
 - Setting up self-hosted services on a personal server
 
 - [Linux from Scratch](https://www.linuxfromscratch.org/)
