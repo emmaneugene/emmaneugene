@@ -5,14 +5,12 @@
 <p align="center"><i>"I don't just think it will... I know it might!"</i></p>
 
 # About me
-- 👋 I’m a software engineer reading Computer Science at [SMU](https://scis.smu.edu.sg)
-
-- 👀 I’m interested in systems, programming language design and implementation, compilers, and anything else that touches on low-level concepts
+- 👀 I’m interested in systems, programming languages, compilers, hardware and anything else that touches on low-level concepts
 
 - 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
 # Project log
-A laundry list of ideas that may or may not see the light of day:
+Ideas that may or may not see the light of day:
 
 - Following the [Crafting Interpreters](https://craftinginterpreters.com/) textbook to learn more about programming language implementations
 
@@ -20,13 +18,13 @@ A laundry list of ideas that may or may not see the light of day:
 
 - [Linux from Scratch](https://www.linuxfromscratch.org/)
 
-- A simple habit tracker bot on Telegram
+- A habit-tracking bot on Telegram
 
 - [Feed Integrator](https://github.com/emmaneugene/feed-integrator) as full-stack development practice
 
-- A self-hosted LLM (most likely using the [LLaMa](https://github.com/ggerganov/llama.cpp) model) for personal knowledge management
+- A self-hosted LLM fed on PDFs, e-books, and saved articles for personal knowledge management
 
-**Last updated**: 06-07-2023
+**Last updated**: 26-10-2023
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
