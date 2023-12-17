@@ -12,15 +12,15 @@
 # Project log
 Ideas that may or may not see the light of day:
 
-- Following the [Crafting Interpreters](https://craftinginterpreters.com/) textbook to learn more about programming language implementations
+- Finishing [Crafting Interpreters](https://craftinginterpreters.com/)
 
 - Setting up self-hosted services on a personal server
 
 - [Linux from Scratch](https://www.linuxfromscratch.org/)
 
-- A habit-tracking bot on Telegram
+- Automated chat backups for Telegram
 
-- [Feed Integrator](https://github.com/emmaneugene/feed-integrator) as full-stack development practice
+- [Feed Integrator](https://github.com/emmaneugene/feed-integrator)
 
 - A self-hosted LLM fed on PDFs, e-books, and saved articles for personal knowledge management
 
