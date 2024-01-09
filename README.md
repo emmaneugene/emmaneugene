@@ -5,7 +5,7 @@
 <p align="center"><i>"I don't just think it will... I know it might!"</i></p>
 
 # About me
-- 👀 I’m interested in systems, programming languages, compilers, hardware and anything else that touches on low-level concepts
+- 👀 I’m interested in systems, programming languages, compilers, hardware and anything that touches on low-level concepts
 
 - 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
@@ -24,7 +24,7 @@ Ideas that may or may not see the light of day:
 
 - A self-hosted LLM fed on PDFs, e-books, and saved articles for personal knowledge management
 
-**Last updated**: 26-10-2023
+**Last updated**: 9-1-2024
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
