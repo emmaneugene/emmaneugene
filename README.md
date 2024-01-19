@@ -9,6 +9,8 @@
 
 - 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
+- Check out my [stars](https://github.com/emmaneugene?tab=stars) for interesting projects and tools!
+
 # Project log
 Ideas that may or may not see the light of day:
 
