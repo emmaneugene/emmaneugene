@@ -24,9 +24,9 @@ Ideas that may or may not see the light of day:
 
 - [Feed Integrator](https://github.com/emmaneugene/feed-integrator)
 
-- A self-hosted LLM fed on PDFs, e-books, and saved articles for personal knowledge management
+- A self-hosted LLM fed on PDFs, e-books, and saved online articles for personal knowledge management
 
-**Last updated**: 9-1-2024
+**Last updated**: 30-1-2024
 
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
