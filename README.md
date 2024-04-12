@@ -11,23 +11,6 @@
 
 - Check out my [stars](https://github.com/emmaneugene?tab=stars) for interesting projects and tools!
 
-# Project log
-Ideas that may or may not see the light of day:
-
-- Finishing [Crafting Interpreters](https://craftinginterpreters.com/)
-
-- Setting up self-hosted services on a personal server
-
-- [Linux from Scratch](https://www.linuxfromscratch.org/)
-
-- Automated chat backups for Telegram
-
-- [Feed Integrator](https://github.com/emmaneugene/feed-integrator)
-
-- A self-hosted LLM fed on PDFs, e-books, and saved online articles for personal knowledge management
-
-**Last updated**: 30-1-2024
-
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
