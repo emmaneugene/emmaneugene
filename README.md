@@ -5,7 +5,7 @@
 <p align="center"><i>"I don't just think it will... I know it might!"</i></p>
 
 # About me
-- 👀 I’m interested in systems, programming languages, compilers, hardware and anything that touches on low-level concepts
+- 👀 I’m interested in systems, programming languages, compilers, and anything that's close to hardware
 
 - 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
