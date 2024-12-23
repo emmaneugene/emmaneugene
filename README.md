@@ -14,8 +14,9 @@
 - 🗒️ Currently working on:
   - K8s administrator certification
   - Setting up a dev blog
+  - Setting up a homelab
 
-Last updated: 17 Dec 2024
+**Last updated:** 17 Dec 2024
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
