@@ -5,7 +5,7 @@
 <p align="center"><i>"I don't just think it will... I know it might!"</i></p>
 
 # About me
-- 🔧 I’m a tinkerer by heart, and have always been interested in the plumbing behind everyday tools. For that reason, I gravitate towards learning about systems, programming languages, and hardware
+- 🔧 I’m a tinkerer by heart, and have always been interested in plumbing. For that reason, I lean towards systems, programming languages, and hardware
 
 - 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
