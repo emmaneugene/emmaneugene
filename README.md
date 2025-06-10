@@ -5,7 +5,7 @@
 <p align="center"><i>"I don't just think it will... I know it might!"</i></p>
 
 # About me
-- 🔧 I’m a tinkerer by heart, and have always been interested in plumbing. For that reason, I lean towards systems, programming languages, and hardware
+- 🔧 I’m a tinkerer at heart, and have always been interested in plumbing. For that reason, I lean towards systems, programming languages, and hardware
 
 - 🔍 More information on my [personal website](https://emmaneugene.github.io)
 
@@ -13,11 +13,10 @@
 
 - 🗒️ Currently working on:
   - [Crafting Interpreters](https://craftinginterpreters.com)
+  - Learning C/Cpp
   - Setting up a dev blog
-  - Setting up a homelab
-  - Grokking JVM/MySQL/Kafka performance
 
-**Last updated:** 4 May 2025
+**Last updated:** 10 Jun 2025
 <!---
 emmaneugene/emmaneugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
